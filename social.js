@@ -1,6 +1,6 @@
-// togg = () => {
+togg = () => {
 //     // body
-//     let body = document.body;
+    let body = document.body;
     body.classList.toggle("body");
 // header
     let head = document.querySelector("header");
@@ -33,21 +33,21 @@ c.classList.toggle("box");
    let f = document.querySelector("#last").querySelector("#second");
    f.classList.toggle("box");
 
-//     let g = document.querySelector("#last").querySelector("#third");
-//     g.classList.toggle("box");
+   let g = document.querySelector("#last").querySelector("#third");
+   g.classList.toggle("box");
 
-//     let h = document.querySelector("#last").querySelector("#fourth");
-//     h.classList.toggle("box");
+  let h = document.querySelector("#last").querySelector("#fourth");
+  h.classList.toggle("box");
 
-//     let i = document.querySelector("#last").querySelector("#fifth");
-//     i.classList.toggle("box");
+    let i = document.querySelector("#last").querySelector("#fifth");
+ i.classList.toggle("box");
 
-//     let j = document.querySelector("#last").querySelector("#sixth");
-//     j.classList.toggle("box");
+    let j = document.querySelector("#last").querySelector("#sixth");
+    j.classList.toggle("box");
 
-//     let k = document.querySelector("#last").querySelector("#seventh");
-//     k.classList.toggle("box");
+   let k = document.querySelector("#last").querySelector("#seventh");
+   k.classList.toggle("box");
 
-//     let l = document.querySelector("#last").querySelector("#eight");
-//     l.classList.toggle("box");
-// };
+   let l = document.querySelector("#last").querySelector("#eight");
+   l.classList.toggle("box");
+ };
